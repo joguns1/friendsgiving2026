@@ -37,15 +37,6 @@ export const featureCards = [
       'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80',
   },
   {
-    title: 'Game Night',
-    description: 'A surprise tournament awaits behind the curtain.',
-    href: '/games',
-    accent: 'from-[#2b1713] via-[#6b2d1f] to-[#d29b59]',
-    imageLabel: 'Tournament',
-    image:
-      'https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80',
-  },
-  {
     title: 'Photo Gallery',
     description: 'Capture the moment and share the memories.',
     href: '/gallery',
